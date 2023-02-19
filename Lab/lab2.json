@@ -1,0 +1,38 @@
+{
+  "listOfBooks": [
+    {
+      "nameOfBook": "Welcome",
+      "auther": "Ali",
+      "pages": 128,
+      "isBorrow": true,
+      "dateOfreturn": "2022/1/15",
+      "idOfBorrower": 1
+    },
+    {
+      "nameOfBook": "Home",
+      "auther": "kalhed",
+      "pages": 200,
+      "isBorrow": true,
+      "dateOfreturn": "2023/2/15",
+      "nameOfBorrower": "naser"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "naser",
+      "phone": "05062722514",
+      "email": "dd@gmail.com",
+      "isBorrow": true
+    },
+    {
+      "id": 2,
+      "name": "yaser",
+      "phone": "0534565488",
+      "email": "gg@gmail.com",
+      "isBorrow": true
+    }
+  ]
+}
+
